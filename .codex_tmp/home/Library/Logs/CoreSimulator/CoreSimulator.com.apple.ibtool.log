@@ -1,0 +1,150 @@
+Apr 14 23:44:55 MacBook-Pro-275 com.apple.ibtool[12169] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:44:55 MacBook-Pro-275 com.apple.ibtool[12170] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:44:58 MacBook-Pro-275 com.apple.ibtool[12224] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:04 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:04 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:04 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:04 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:04 MacBook-Pro-275 com.apple.ibtool[12257] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Warning>: Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Warning>: Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Warning>: Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12255] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12254] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:45:05 MacBook-Pro-275 com.apple.ibtool[12256] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:45 MacBook-Pro-275 com.apple.ibtool[13985] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:45 MacBook-Pro-275 com.apple.ibtool[14004] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:47 MacBook-Pro-275 com.apple.ibtool[14009] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14095] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: Unable to deliver request ({
+	    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+	    request = "set_developer_dir";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Warning>: Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Warning>: Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Warning>: Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14096] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: simdiskimaged returned error (invalid), marking disconnected.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14094] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
+Apr 14 23:52:50 MacBook-Pro-275 com.apple.ibtool[14093] <Error>: Unable to deliver request ({
+	    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+	    request = "add_profiles";
+	}) because we are not connected to CoreSimulatorService.
